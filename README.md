@@ -88,6 +88,6 @@ Creación de la aplicación: npx react-native@latest init quintoc --npm
 
 
 Ejecutamos el proyecto: npx react-native run-android
-![Contador](https://github.com/abm9287/MiPrimeraApp/assets/49075053/cc1acd36-c66b-4373-8d76-bc0450c89dba)
+![imagen](https://github.com/abm9287/MiPrimeraApp/assets/49075053/4e8ebf04-e853-4bd7-8ffd-f3eaf20b30bc)
 
 
