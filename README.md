@@ -53,6 +53,8 @@ Now that you have successfully run the app, let's modify it.
 1. Open `App.tsx` in your text editor of choice and edit some lines.
 2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
 
+
+
    For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
 
 ## Congratulations! :tada:
@@ -77,3 +79,14 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+<divider>
+Creación de la aplicación: ```npx react-native@latest init quintoc --npm``` 
+![imagen](https://github.com/abm9287/MiPrimeraApp/assets/49075053/555cd843-962e-42f0-9427-e675d5c9521b)
+
+
+<divider>
+Ejecutamos el proyecto: ```npx react-native run-android``` 
+![imagen](https://github.com/abm9287/MiPrimeraApp/assets/49075053/78c38458-0eb4-4dd8-bae2-5066b5d743cc)
+
+<divider>
