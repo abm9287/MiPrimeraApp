@@ -81,13 +81,13 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
 
-# Creación de la aplicación: npx react-native@latest init quintoc --npm 
+## Creación de la aplicación: npx react-native@latest init quintoc --npm 
 
 ![imagen](https://github.com/abm9287/MiPrimeraApp/assets/49075053/78c38458-0eb4-4dd8-bae2-5066b5d743cc)
 
 
 
-# Ejecutamos el proyecto: npx react-native run-android
+## Ejecutamos el proyecto: npx react-native run-android
 ![imagen](https://github.com/abm9287/MiPrimeraApp/assets/49075053/4e8ebf04-e853-4bd7-8ffd-f3eaf20b30bc)
 
 
